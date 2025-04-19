@@ -6,5 +6,4 @@
 - 📫 How to reach me: noway
 - 😄 Pronouns: Σ, σ, ς
 - ⚡ Fun fact: end
-
 <img alt="a cat that makes delicious crunch crunch." src="https://github.com/pararti/pararti/blob/master/catz.gif?raw=true" width="100%">
